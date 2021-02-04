@@ -9,6 +9,8 @@ Calculation of direct distance using TypeScript
 - [TypeScript](https://www.typescriptlang.org/download) >= 4.1.3
 - [Deno](https://github.com/denoland/deno) >= 1.7.0
 
+- [Turfjs](https://github.com/Turfjs/turf)
+
 ## Build Setup
 
 ``` bash
